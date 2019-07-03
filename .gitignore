@@ -105,7 +105,6 @@ venv.bak/
 
 # editor:
 .vscode
-.idea
 
 # mac:
 .DS_Store
